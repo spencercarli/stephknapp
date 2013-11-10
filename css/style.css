@@ -1,3 +1,15 @@
 body {
-	
+	background-image: url(../img/bg.jpg);
+}
+
+h1 {
+	color:pink;
+}
+
+.left {
+	background-color:red;
+}
+
+.right {
+	background-color:blue;
 }
