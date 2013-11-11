@@ -6,10 +6,35 @@ h1 {
 	color:pink;
 }
 
+p {
+	color:white;
+}
+
 .left {
-	background-color:red;
+	
 }
 
 .right {
-	background-color:blue;
+	
+}
+
+.blackboard {
+	width:70%;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:black;
+	margin-top:77px;
+	padding:10px;
+}
+
+.picture {
+	width:80%;
+	height:400px;
+	background-color:black;
+}
+
+.lights {
+	height:500px;
+	width:90%;
+	background-image:url(../img/lights.png);
 }
