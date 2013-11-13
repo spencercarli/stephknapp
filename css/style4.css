@@ -1,0 +1,21 @@
+body {
+    background-color: #11c9d5;
+}
+
+h1 {
+    font-family: 'Yellowtail', cursive;
+    color:#ebf6fb;
+    font-size:66px;
+}
+
+.pad-top {
+	margin-top:65px;
+}
+
+.text {
+	padding-left:12px;
+	color:#ebf6fb;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	line-height: 21px;
+}
